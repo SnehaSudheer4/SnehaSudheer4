@@ -84,7 +84,7 @@ I'm a passionate web developer who loves building clean, responsive, and user-fr
 
 
 ### ⚡ Fun Fact:
-# I debug my code more than I write it... and I love it! 🧩
-# ☕ Powered by coffee and curiosity
+- I debug my code more than I write it... and I love it! 🧩
+- ☕ Powered by coffee and curiosity
 
 ---
