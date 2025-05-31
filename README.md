@@ -62,6 +62,14 @@ I'm a passionate web developer who loves building clean, responsive, and user-fr
 
 ---
 
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SnehaSudheer4&theme=tokyo-night&hide_border=true)
+
+---
+
+
 ### ⚡ Fun Fact:
 I debug my code more than I write it... and I love it! 🧩
 
