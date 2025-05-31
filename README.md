@@ -1,5 +1,6 @@
 ## 👋 Hi there, I'm Sneha!
 
+```js
 const developer = {
   name: "Sneha Sudheer",
   role: "Web Developer",
