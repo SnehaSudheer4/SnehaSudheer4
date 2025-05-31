@@ -1,5 +1,19 @@
 ## 👋 Hi there, I'm Sneha!
 
+const developer = {
+  name: "Sneha Sudheer",
+  role: "Web Developer",
+  skills: ["JavaScript", "React", "Node.js", "MongoDB"],
+  status: "Growing & Learning",
+  introduce: () => {
+    console.log("Crafting seamless web experiences, one component at a time! 💻");
+  },
+};
+
+
+developer.introduce();
+
+
 <!-- SnehaSudheer4/SnehaSudheer4 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile. -->
 
 <div align="center">
