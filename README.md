@@ -53,6 +53,15 @@ I'm a passionate web developer who loves building clean, responsive, and user-fr
 
 ---
 
+## 🎯 Current Focuses
+
+- ⚛️ Deepening React.js and advanced hooks knowledge  
+- 🌐 Building full-stack projects with Node.js and MongoDB  
+- 🎨 Improving UI/UX design skills  
+- 🤝 Contributing to open-source projects  
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
