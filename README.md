@@ -53,14 +53,7 @@ I'm a passionate web developer who loves building clean, responsive, and user-fr
 
 ---
 
-## 🎯 Current Focuses
 
-- ⚛️ Deepening React.js and advanced hooks knowledge  
-- 🌐 Building full-stack projects with Node.js and MongoDB  
-- 🎨 Improving UI/UX design skills  
-- 🤝 Contributing to open-source projects  
-
----
 
 ### 📊 GitHub Stats
 
@@ -72,11 +65,22 @@ I'm a passionate web developer who loves building clean, responsive, and user-fr
 ---
 
 
+## 🎯 Current Focuses
+
+- ⚛️ Deepening React.js and advanced hooks knowledge  
+- 🌐 Building full-stack projects with Node.js and MongoDB  
+- 🎨 Improving UI/UX design skills  
+- 🤝 Contributing to open-source projects  
+
+---
+
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SnehaSudheer4&theme=tokyo-night&hide_border=true)
 
 ---
+
+
 
 
 ### ⚡ Fun Fact:
