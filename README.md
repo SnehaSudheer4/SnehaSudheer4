@@ -39,10 +39,8 @@ I'm a passionate web developer who loves building clean, responsive, and user-fr
 ---
 
 ### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehasudheer/)  
-[Portfolio Website](https://your-portfolio-link.com) • [Email](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/snehasudheer/](https://www.linkedin.com/in/sneha-v-b0585927a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
 
----
 
 ### 📊 GitHub Stats
 
