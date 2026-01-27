@@ -4,7 +4,7 @@
 const developer = {
   name: "Sneha Sudheer",
   role: "Web Developer",
-  skills: ["JavaScript", "React", "Node.js", "MongoDB","Next.js","TypeScript"],
+  skills: ["JavaScript", "React", "Node.js", "MongoDB","Next.js","TypeScript","React Native"],
   status: "Growing & Learning",
   introduce: () => {
     console.log("Crafting seamless web experiences, one component at a time! 💻");
